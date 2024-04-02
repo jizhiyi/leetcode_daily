@@ -6,3 +6,4 @@
 - 2024.3.31 [331. 验证二叉树的前序序列化](https://leetcode.cn/problems/verify-preorder-serialization-of-a-binary-tree)
 
 - 2024.4.1 [2810. 故障键盘](https://leetcode.cn/problems/faulty-keyboard)
+- 2024.4.2 [894. 所有可能的真二叉树](https://leetcode.cn/problems/all-possible-full-binary-trees)
