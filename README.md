@@ -8,3 +8,4 @@
 - 2024.4.1 [2810. 故障键盘](https://leetcode.cn/problems/faulty-keyboard)
 - 2024.4.2 [894. 所有可能的真二叉树](https://leetcode.cn/problems/all-possible-full-binary-trees)
 - 2024.4.3 [1379. 找出克隆二叉树中的相同节点](https://leetcode.cn/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)
+- 2024.4.4 [2192. 有向无环图中一个节点的所有祖先](https://leetcode.cn/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph)
