@@ -2,7 +2,7 @@
 #include <gtest/gtest.h>
 
 // Demonstrate some basic assertions.
-TEST(count_ways_to_group_overlapping_ranges_test, BasicAssertions) {
+TEST(minimum_sum_of_mountain_triplets_i, BasicAssertions) {
   Solution s;
   EXPECT_EQ(s.minimumSum(*(new vector<int>{8, 6, 1, 5, 3})), 9);
   EXPECT_EQ(s.minimumSum(*(new vector<int>{5, 4, 8, 7, 10, 2})), 13);

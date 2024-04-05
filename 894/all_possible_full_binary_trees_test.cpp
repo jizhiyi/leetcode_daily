@@ -39,7 +39,7 @@ bool checkRes(int n, vector<TreeNode *> res) {
 }
 
 // Demonstrate some basic assertions.
-TEST(count_ways_to_group_overlapping_ranges_test, BasicAssertions) {
+TEST(all_possible_full_binary_trees, BasicAssertions) {
   vector<int> inputs = {7, 3};
   Solution s;
   for (auto input : inputs) {

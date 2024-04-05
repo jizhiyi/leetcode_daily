@@ -14,6 +14,7 @@ FetchContent_MakeAvailable(googletest)
 
 add_subdirectory(331)
 add_subdirectory(894)
+add_subdirectory(1026)
 add_subdirectory(1997)
 add_subdirectory(2192)
 add_subdirectory(2580)

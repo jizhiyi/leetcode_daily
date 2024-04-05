@@ -1,9 +1,7 @@
 #include "solution.hpp"
-#include "gtest/gtest.h"
 #include <gtest/gtest.h>
-#include <vector>
 
-TEST(count_ways_to_group_overlapping_ranges_test, BasicAssertions) {
+TEST(test_2192, BasicAssertions) {
   Solution s;
   auto res = s.getAncestors(8, *(new vector<vector<int>>{{0, 3},
                                                          {0, 4},
