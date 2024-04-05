@@ -1,0 +1,15 @@
+enable_testing()
+
+add_executable(
+    PROBLEM_NUM_PLACEHOLDER_test
+    solution_test.cpp
+    solution.hpp
+)
+
+target_link_libraries(
+    PROBLEM_NUM_PLACEHOLDER_test
+    GTest::gtest_main
+)
+
+include(GoogleTest)
+gtest_discover_tests(PROBLEM_NUM_PLACEHOLDER_test)

@@ -1,0 +1,6 @@
+#include "solution.hpp"
+#include <gtest/gtest.h>
+
+TEST(test_PROBLEM_NUM_PLACEHOLDER, BasicAssertions) {
+}
+
