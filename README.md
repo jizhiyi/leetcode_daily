@@ -12,3 +12,4 @@
 - 2024.4.5 [1026. 节点与其祖先之间的最大差值](https://leetcode.cn/problems/maximum-difference-between-node-and-ancestor)
 - 2024.4.6 [1483. 树节点的第 K 个祖先](https://leetcode.cn/problems/kth-ancestor-of-a-tree-node)
 - 2024.4.7 [1600. 王位继承顺序](https://leetcode.cn/problems/throne-inheritance)
+- 2024.4.8 [2009. 使数组连续的最少操作数](https://leetcode.cn/problems/minimum-number-of-operations-to-make-array-continuous)
