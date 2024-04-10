@@ -13,3 +13,5 @@
 - 2024.4.6 [1483. 树节点的第 K 个祖先](https://leetcode.cn/problems/kth-ancestor-of-a-tree-node)
 - 2024.4.7 [1600. 王位继承顺序](https://leetcode.cn/problems/throne-inheritance)
 - 2024.4.8 [2009. 使数组连续的最少操作数](https://leetcode.cn/problems/minimum-number-of-operations-to-make-array-continuous)
+- 2024.4.9 [2529. 正整数和负整数的最大计数](https://leetcode.cn/problems/maximum-count-of-positive-integer-and-negative-integer)
+- 2024.4.10 [1702. 修改后的最大二进制字符串](https://leetcode.cn/problems/maximum-binary-string-after-change)
