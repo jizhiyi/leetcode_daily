@@ -15,3 +15,4 @@
 - 2024.4.8 [2009. 使数组连续的最少操作数](https://leetcode.cn/problems/minimum-number-of-operations-to-make-array-continuous)
 - 2024.4.9 [2529. 正整数和负整数的最大计数](https://leetcode.cn/problems/maximum-count-of-positive-integer-and-negative-integer)
 - 2024.4.10 [1702. 修改后的最大二进制字符串](https://leetcode.cn/problems/maximum-binary-string-after-change)
+- 2024.4.11 [1766. 互质树](https://leetcode.cn/problems/tree-of-coprimes)
