@@ -18,3 +18,4 @@
 - 2024.4.11 [1766. 互质树](https://leetcode.cn/problems/tree-of-coprimes)
 - 2024.4.12 [2923. 找到冠军 I](https://leetcode.cn/problems/find-champion-i)
 - 2024.4.13 [2924. 找到冠军 II](https://leetcode.cn/problems/find-champion-ii)
+- 2024.4.14 [705. 设计哈希集合](https://leetcode.cn/problems/design-hashset)

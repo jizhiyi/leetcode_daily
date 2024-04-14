@@ -13,6 +13,7 @@ FetchContent_Declare(
 FetchContent_MakeAvailable(googletest)
 
 add_subdirectory(331)
+add_subdirectory(705)
 add_subdirectory(894)
 add_subdirectory(1026)
 add_subdirectory(1483)
