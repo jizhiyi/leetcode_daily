@@ -19,3 +19,8 @@
 - 2024.4.12 [2923. 找到冠军 I](https://leetcode.cn/problems/find-champion-i)
 - 2024.4.13 [2924. 找到冠军 II](https://leetcode.cn/problems/find-champion-ii)
 - 2024.4.14 [705. 设计哈希集合](https://leetcode.cn/problems/design-hashset)
+- 2024.4.15 [706. 设计哈希映射](https://leetcode.cn/problems/design-hashmap)
+- 2024.4.16 [924. 尽量减少恶意软件的传播](https://leetcode.cn/problems/minimize-malware-spread)
+- 2024.4.17 [928. 尽量减少恶意软件的传播 II](https://leetcode.cn/problems/minimize-malware-spread-ii)
+- 2024.4.18 [2007. 从双倍数组中还原原数组](https://leetcode.cn/problems/find-original-array-from-doubled-array)
+- 2024.4.19 [1883. 准时抵达会议现场的最小跳过休息次数](https://leetcode.cn/problems/minimum-skips-to-arrive-at-meeting-on-time)
